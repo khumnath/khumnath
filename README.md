@@ -1,4 +1,5 @@
-# 🧑‍💻 khumnath — Developer Snapshot
+ 🧑‍💻 khumnath — g++ -std=c++17 profile.cpp -o profile && ./profile
+
 
 
 ```cpp
